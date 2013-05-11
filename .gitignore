@@ -1,3 +1,7 @@
 kfaenza-icon-theme/*
 nitrux-icons-kde/*
 kdeplasma-applets-menubar/*
+appmenu-gtk/*
+gtk2-ubuntu/*
+gtk3-ubuntu/*
+libdbusmenu-gtk2/*
