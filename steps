@@ -3,5 +3,5 @@ Bunch of customizations to make to KDE to make it my perfect DE
 1. Theme: (Mac Style)
 
   1.1 Install KFaenza Icon theme. AUR::kfaenza-icon-theme
-
+  1.2 For dock style menubar, install, AUR::kdeplasma-applets-menubar
   
